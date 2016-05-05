@@ -42,7 +42,7 @@ p {
 
 body {
 	
-	background-image: url(stars.jpg);
+	background-image: url(stars2.jpg);
 	height: 100%;
 }
 
@@ -65,4 +65,6 @@ body {
   background-color: rgba(200, 200, 200, 0.7);
   color: rgba(100, 70, 230, 0.9);
   font-size: 34px;
+
+
 }
