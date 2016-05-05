@@ -1,0 +1,69 @@
+
+
+h1 {
+    color: rgba(180, 250, 250, 0.9);
+    text-align: center;
+}
+
+h3{
+	text-align: center;
+	color: rgba(100, 170, 200, 0.9);
+}
+html,
+
+#block{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 40px;
+	padding-bottom: 100px;
+
+}
+
+#block2{
+  padding: 20px;
+}
+
+li{
+  display: inline;
+}
+
+li a {
+    color: white;
+    text-align: center;
+    padding-right: 45px;
+    padding-left: 45px;
+}
+p {
+    font-family: "Arial";
+    font-size: 24px;
+    text-align: center;
+    color: rgba(90, 120, 250, 0.9);
+}
+
+
+body {
+	
+	background-image: url(stars.jpg);
+	height: 100%;
+}
+
+/* Wrapper for page content to push down footer */
+
+
+#wrap {
+  background-color: rgba(130, 130, 130, 0.45);
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+  background-color: rgba(200, 200, 200, 0.7);
+  color: rgba(100, 70, 230, 0.9);
+  font-size: 34px;
+}
